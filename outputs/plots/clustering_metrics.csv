@@ -1,0 +1,4 @@
+task,model,features,clustering,silhouette,davies_bouldin
+easy,LSTM-AE,piano_roll,kmeans,--,--
+medium,VAE,piano_roll,kmeans,0.0336,2.9326
+hard,Transformer,tokens,kmeans,--,--

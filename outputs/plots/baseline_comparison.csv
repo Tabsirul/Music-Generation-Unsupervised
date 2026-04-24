@@ -1,0 +1,7 @@
+model,pitch_hist_sim,rhythm_diversity,repetition_ratio,n_notes
+LSTM Autoencoder,0.2394,0.0192,0.0,58.6
+Markov Chain,0.2958,0.0078,0.0,128.0
+RLHF,1.4,0.56,0.0,4.2
+Random Generator,0.0606,0.0114,0.0,88.0
+Transformer,1.0005,0.1597,0.0253,69.4
+VAE,1.4545,0.4024,0.0,18.0

@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pth
+*.pt
+data/raw_midi/*.zip
+data/processed/*.json
+data/train_test_split/*.npy
+outputs/generated_midis/*.mid
+outputs/plots/*.png
+*.DS_Store

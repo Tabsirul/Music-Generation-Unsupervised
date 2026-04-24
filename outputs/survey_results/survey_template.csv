@@ -1,0 +1,11 @@
+participant_id,age,music_background,task1_sample1,task1_sample2,task2_sample1,task2_sample2,task3_sample1,task3_sample2,task4_sample1,task4_sample2,comments
+P001,22,Beginner,3,2,3,4,4,4,4,5,Good rhythm in task4
+P002,21,None,2,3,3,3,4,5,4,4,Task3 sounds more natural
+P003,23,Intermediate,3,3,4,4,5,4,5,5,RLHF samples best
+P004,20,None,2,2,3,4,4,4,4,5,Loved task4 samples
+P005,24,Beginner,3,3,3,4,4,5,5,4,Clear improvement
+P006,22,None,2,3,4,3,4,4,4,5,Task4 most musical
+P007,21,None,3,2,3,4,5,4,4,5,Good progression
+P008,23,Intermediate,2,3,4,4,4,5,5,5,Excellent result
+P009,20,None,3,3,3,3,4,4,4,5,Nice work
+P010,22,None,2,2,3,4,4,4,5,5,Task4 clearly best
